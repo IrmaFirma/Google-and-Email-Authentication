@@ -1,2 +1,2 @@
-# IrmaAuthDemo
-Google and Email Auth Flow
+#Google and Email Authentication
+
